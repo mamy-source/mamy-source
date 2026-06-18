@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mamitiana+RANDRIANANTENAINA;Full+Stack+Developer;Backend+Specialist;Python+%7C+Node.js/ Express.js+%7C+Laravel+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mamitiana+RANDRIANANTENAINA;Full+Stack+Developer;Backend+Specialist;Python+%7C+Node.js+%7c+ Expresss.js+%7C+Laravel+%7C+FastAPI" />
 </p>
 
 
