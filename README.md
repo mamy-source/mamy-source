@@ -66,7 +66,7 @@
 
 - 📧 Email: mamitianarandrianantenaina253@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/mamitiana-randrianantenaina-857603380
-- 🐙 GitHub: https://github.com/mamay-source 
+- 🐙 GitHub: https://github.com/mamy-source 
 
 ---
 
